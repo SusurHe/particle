@@ -1,0 +1,9 @@
+{
+	"radius" : 0,
+	"cardId" : 1,
+ 	"skillType" : 0,
+ 	"name":null,
+ 	"coefficient" :2.0,
+ 	"cost":3,
+ 	"cardDescribe":"卡牌1，为直线"
+ }
